@@ -1,4 +1,6 @@
+title: Christina Sickelco's Site
+description: A place for my tech projects and musings
 name: Christina Sickelco
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: architect
+theme: jekyll-theme-architect
