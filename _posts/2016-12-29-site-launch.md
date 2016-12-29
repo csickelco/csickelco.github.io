@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: "Christina Sickelco, Launches Site"
 date: 2016-12-29
 ---
