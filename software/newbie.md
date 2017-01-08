@@ -2,6 +2,7 @@
 layout: default
 title: Newbie Log
 ---
+<header>Newbie Log</header>
 
 # Overview
 Newbie Log is a voice-enabled newborn and infant tracking application that works on any Alexa-enabled device, like the Amazon Echo. It's a hands-free way to log your baby's feeds, sleep, diapers, activity, and weight -- information that's helpful to have for visits to the pediatrician and your own records.
