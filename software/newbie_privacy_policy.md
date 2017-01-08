@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Newbie Log
+title: Newbie Log Privacy Policy
 ---
 
 # Overview
