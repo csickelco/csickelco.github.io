@@ -17,10 +17,10 @@ A one-time setup command is needed to start using Newbie Log:
 >Alexa, tell Newbie Log to add baby
 
 ## Diapers
->Alexa, tell Newbie Log to add wet diaper
->Alexa, tell Newbie Log to add dirty diaper
->Alexa, tell Newbie Log to add wet and dirty diaper
->Alexa, tell Newbie Log to remove diaper
+* >Alexa, tell Newbie Log to add wet diaper
+* >Alexa, tell Newbie Log to add dirty diaper
+* >Alexa, tell Newbie Log to add wet and dirty diaper
+* >Alexa, tell Newbie Log to remove diaper
 
 ## Feeds
 >Alexa, tell Newbie Log to add five ounce bottle
