@@ -14,7 +14,7 @@ Below are some common ways to invoke Newbie Log on your Alexa device. In general
 
 ## Setup
 A one-time setup command is needed to start using Newbie Log:
->Alexa, tell Newbie Log to add baby
+* Alexa, tell Newbie Log to add baby
 
 ## Diapers
 * Alexa, tell Newbie Log to add wet diaper
