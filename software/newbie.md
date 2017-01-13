@@ -15,6 +15,7 @@ Below are some common ways to invoke Newbie Log on your Alexa device. In general
 
 ### Setup
 A one-time setup command is needed to start using Newbie Log:
+
 * Alexa, tell Newbie Log to add baby
 
 ### Diapers
@@ -45,6 +46,7 @@ A one-time setup command is needed to start using Newbie Log:
 ### Summaries
 * Alexa, ask Newbie Log for a weekly summary
 * Alexa, ask Newbie Log for a daily summary
+
 The above are also sent to the Amazon Alexa app on your smartphone or the [web](http://alexa.amazon.com/spa/index.html)
 
 ### Remove baby's info
