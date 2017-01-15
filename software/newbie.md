@@ -51,6 +51,7 @@ The above are also sent to the Amazon Alexa app on your smartphone or the [web](
 
 ### Remove baby's info
 If you are done using the Newbie Log app and want to remove all data for your baby:
+
 * Alexa, tell Newbie Log To remove baby
 
 ### For Multiples
